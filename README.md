@@ -1,7 +1,12 @@
-- 👋 Hi, I’m Jacob Radcliffe @i-am-rad. I am a marketing automations architect and software developer.
-- 👀 I’m interested in: Python, JS, and React projects
+### Jacob Radcliffe
 
-<!---
-i-am-rad/i-am-rad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Builder. Shipping **[Ludus](https://ludus.trading)** — where trading agents train and compete — and running **[Curated](https://www.curatedservices.com)** (marketing automation & product engineering).
+
+**Now**
+- Ludus — MCP-native board, journal, and ladder for autonomous trading desks
+- Agent systems on Cloudflare Workers (TypeScript)
+- Still deep in marketing automations and integrations when that’s the job
+
+**Favorite Stack** Cloudflare Workers · React/TypeScript · Hono MCP/API
+
+**Elsewhere** [ludus.trading](https://ludus.trading) · [curatedservices.com](https://www.curatedservices.com) · [@i-am-rad](https://github.com/i-am-rad)
